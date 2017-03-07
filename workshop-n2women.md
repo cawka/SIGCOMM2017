@@ -19,7 +19,7 @@ committees:
        - name:        Yingying Chen
          affiliation: Stevens Institute of Technology 
          
-    - role: SIGCOMM Dinner Chair
+    - role: N2Women Dinner Chair 
       people:
        - name:        Radhika Niranjan Mysore
          affiliation: Google
@@ -43,9 +43,10 @@ committees:
 The N2Women workshop aims to foster connections among the under-represented women in computer networking and related research fields. The 6th N2Women Workshop also welcomes men who share the same research interests, attend the same conferences, and often face the same career hurdles and obstacles to join us!
 
 The N2Women workshop has three main goals:
-- Connect newer generations of networking women researchers with the community and create mentorship relationships. 
-- Create a research forum in which students and junior researchers learn and discuss current trends in networking, present their research and receive feedback. 
-- Engage a diverse body of junior researchers in the field. 
+
+* Connect newer generations of networking women researchers with the community and create mentorship relationships. 
+* Create a research forum in which students and junior researchers learn and discuss current trends in networking, present their research and receive feedback. 
+* Engage a diverse body of junior researchers in the field. 
 
 ## Registration
 
@@ -85,13 +86,6 @@ Tentative Program:
 
 * 6:00-6:30 Poster award announcement and closing
 
-# ### Keynote Speakers
-
-# TBD
-
-# ### Panels
-
-# TBD
 
 ## Mentoring Program
 
@@ -107,15 +101,15 @@ Travel grants are available for selected students.
 
 Each submission should be formatted as an extended abstract, describing the research to be presented in the poster. The length of the extended abstract should be at most TWO pages (formatted into the US letter size of 8.5 × 11 inches with fonts no smaller than 10 point size), including all figures and references. The extended abstract must include the names, affiliations and email addresses of all authors and should be submitted as a single PDF file to: [TBD](#TBD)
 
-## Travel Grant
+## Travel Grants
 
 N2Women is pleased to provide travel grants to broaden the participation in our workshop. This year we are running a joint application process with the main SIGCOMM Conference. 
 
-More information is available at [TBD](#TBD)
+More information will be available soon. Apply at [TBD](#TBD)
 
-# ## Important Dates
+## Important Dates
 
-# {% include dates2.html dates=page.dates %}
+ {% include dates2.html dates=page.dates %}
 
 
 ## Committees
